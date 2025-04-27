@@ -10,6 +10,9 @@ Here you'll find a selection of hands-on projects focused on Systems Administrat
 ### [Windows Systems Administration Project](https://github.com/usmanuh/windows-systems-admin-tasks)
 Real-world operational tasks focusing on user management, endpoint security hardening, backup readiness and system maintenance automation.
 
+### [Azure Cloud Administration Project](https://github.com/usmanuh/azure-systems-admin-tasks)
+Operational tasks involving Azure VM deployment, secure remote access configuration, resource tagging, blob storage management and cost control best practices.
+
 ### [Linux Systems Practice](https://github.com/usmanuh/linux-practice)
 Hands-on practice and exercises in Linux administration, file management and automation using Bash scripting.
 
