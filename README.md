@@ -26,11 +26,11 @@ Reusable cloud automation scripts designed to streamline deployment and maintena
 
 ## 📚 About Me
 
-This portfolio showcases a selection of hands-on IT projects focused on Systems Administration, Automation, Linux and Cloud Operations.
+This portfolio showcases a selection of hands-on IT projects focused on Systems Administration, Virtualisation, Automation, Linux and Cloud Operations.
 
-The projects demonstrate practical experience managing Windows environments, automating system maintenance tasks, scripting for Linux administration and developing cloud automation solutions.
+The projects demonstrate practical experience managing Windows and Linux environments, configuring virtual machines, scripting administrative tasks and deploying secure infrastructure on Azure and AWS.
 
-Each project highlights a focus on building secure, efficient and high performing IT infrastructure.
+Each project highlights a focus on building secure, efficient and high-performing IT systems aligned with real-world business needs.
 
 ---
 
