@@ -13,6 +13,9 @@ Real-world operational tasks focusing on user management, endpoint security hard
 ### [Azure Cloud Administration Project](https://github.com/usmanuh/azure-systems-admin-tasks)
 Operational tasks involving Azure VM deployment, secure remote access configuration, resource tagging, blob storage management and cost control best practices.
 
+### [Virtualisation Basics – VirtualBox](https://github.com/usmanuh/virtualisation-basics-virtualbox)  
+Configured and tested Ubuntu virtual machines using Oracle VirtualBox, implemented snapshot-based rollback procedures and practised isolated application testing in a sandbox environment.
+
 ### [Linux Systems Practice](https://github.com/usmanuh/linux-practice)
 Hands-on practice and exercises in Linux administration, file management and automation using Bash scripting.
 
