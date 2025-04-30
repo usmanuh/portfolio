@@ -42,4 +42,3 @@ Each project highlights a focus on building secure, efficient and high-performin
 ---
 
 *Thank you for visiting my portfolio!*
-# portfolio
