@@ -19,7 +19,7 @@ Every project is built from scratch, tested end-to-end and documented in a produ
 A full 3-tier AWS VPC built with public, private and database subnets, bastion access, NAT Gateway, Security Groups, custom Network ACLs and full connectivity validation using SSH & curl.
 
 ✔ Demonstrates cloud architecture, routing, subnet isolation and secure access patterns.  
-🔗 **View Project →** *(add link here)*
+🔗 **View Project →** *[(add link here)](https://github.com/usmanuh/aws-multi-tier-vpc)*
 
 ---
 
