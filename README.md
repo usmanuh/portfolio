@@ -1,44 +1,116 @@
-# 📂 Usman's IT Portfolio
+# 📂 Usman's Cloud & IT Portfolio  
+### ☁️ Hands-on Cloud Engineering • AWS Projects • Automation • Systems Administration
 
-Welcome to my professional IT portfolio.  
-Here you'll find a selection of hands-on projects focused on Systems Administration, Automation, Linux and Cloud Operations.
+Welcome to my professional portfolio showcasing **real-world, hands-on projects** across:
 
----
+- **AWS Cloud Architecture**
+- **Systems Administration (Windows & Linux)**
+- **Infrastructure Automation**
+- **Virtualisation & Networking**
+- **Security Best Practices**
 
-## 🖥️ Featured Projects
-
-### [Windows Systems Administration Project](https://github.com/usmanuh/windows-systems-admin-tasks)
-Real-world operational tasks focusing on user management, endpoint security hardening, backup readiness and system maintenance automation.
-
-### [Azure Cloud Administration Project](https://github.com/usmanuh/azure-systems-admin-tasks)
-Operational tasks involving Azure VM deployment, secure remote access configuration, resource tagging, blob storage management and cost control best practices.
-
-### [Virtualisation Basics – VirtualBox](https://github.com/usmanuh/virtualisation-basics-virtualbox)  
-Configured and tested Ubuntu virtual machines using Oracle VirtualBox, implemented snapshot-based rollback procedures and practised isolated application testing in a sandbox environment.
-
-### [Linux Systems Practice](https://github.com/usmanuh/linux-practice)
-Hands-on practice and exercises in Linux administration, file management and automation using Bash scripting.
-
-### [Cloud Automation Scripts](https://github.com/usmanuh/cloud-scripts)
-Reusable cloud automation scripts designed to streamline deployment and maintenance tasks on AWS.
+Every project is built from scratch, tested end-to-end and documented in a production-focused manner.
 
 ---
 
-## 📚 About Me
+# 🏆 Featured Projects
 
-This portfolio showcases a selection of hands-on IT projects focused on Systems Administration, Virtualisation, Automation, Linux and Cloud Operations.
+## 🏗️ Multi-Tier AWS VPC Architecture (Production Style)
+A full 3-tier AWS VPC built with public, private and database subnets, bastion access, NAT Gateway, Security Groups, custom Network ACLs and full connectivity validation using SSH & curl.
 
-The projects demonstrate practical experience managing Windows and Linux environments, configuring virtual machines, scripting administrative tasks and deploying secure infrastructure on Azure and AWS.
-
-Each project highlights a focus on building secure, efficient and high-performing IT systems aligned with real-world business needs.
-
----
-
-## 🔗 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/usman-ul-haq-587812294/)  
-- [GitHub](https://github.com/usmanuh)
+✔ Demonstrates cloud architecture, routing, subnet isolation and secure access patterns.  
+🔗 **View Project →** *(add link here)*
 
 ---
 
-*Thank you for visiting my portfolio!*
+## 🖥️ Windows Systems Administration Project
+Real-world operational tasks including:
+
+- User identity & group management  
+- Endpoint security hardening  
+- Scheduled backups & maintenance automation  
+- Log reviews and system monitoring  
+
+✔ Demonstrates practical IT operations & security hygiene.  
+🔗 **View Project →** https://github.com/usmanuh/windows-systems-admin-tasks
+
+---
+
+## ☁️ Azure Cloud Administration Project
+Hands-on Azure environment setup including:
+
+- VM deployment & NSG configuration  
+- Secure remote access  
+- Resource tagging governance  
+- Blob storage lifecycle management  
+- Cost optimisation practices  
+
+✔ Highlights cross-cloud experience beyond AWS.  
+🔗 **View Project →** https://github.com/usmanuh/azure-systems-admin-tasks
+
+---
+
+## 🧪 Virtualisation & Sandbox Testing (VirtualBox)
+- Built isolated Linux environments for safe experimentation  
+- Implemented snapshot rollback procedures  
+- Tested applications in controlled lab environments  
+
+✔ Demonstrates foundational infrastructure understanding.  
+🔗 **View Project →** https://github.com/usmanuh/virtualisation-basics-virtualbox
+
+---
+
+## 🐧 Linux Systems Practice & Automation
+Focused on:
+
+- User, group and permission management  
+- Bash scripting for automation  
+- Cron jobs & system maintenance  
+- Log analysis & troubleshooting  
+
+✔ Shows confidence in day-to-day Linux operations.  
+🔗 **View Project →** https://github.com/usmanuh/linux-practice
+
+---
+
+## 🤖 Cloud Automation Scripts
+Reusable cloud automation scripts designed to streamline deployment and maintenance workflows.
+
+Includes:
+
+- AWS automation snippets  
+- Secure IAM & EC2 operations  
+- Bulk resource creation tools  
+- Backup & cleanup scripts  
+
+✔ Demonstrates scripting, repeatability and good ops practice.  
+🔗 **View Project →** https://github.com/usmanuh/cloud-scripts
+
+---
+
+# 📚 About Me
+
+I specialise in building **secure, scalable and well-architected cloud systems** using AWS, Linux and modern automation practices.
+
+My skillset includes:
+
+- VPC architecture & networking  
+- EC2, IAM, IGW/NAT, SGs & NACLs  
+- Linux server administration  
+- Automation using Bash & Python  
+- Virtualisation & sandbox environments  
+- Azure operational knowledge  
+- Secure access (SSH, ProxyJump, IAM)  
+
+My goal is to design and operate cloud environments that are **resilient, secure and aligned with real business needs**.
+
+---
+
+# 🔗 Connect With Me
+
+- **LinkedIn** – https://www.linkedin.com/in/usman-ul-haq-587812294/  
+- **GitHub** – https://github.com/usmanuh
+
+---
+
+*Thank you for visiting my portfolio!*  
